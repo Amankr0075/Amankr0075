@@ -1,50 +1,54 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Flask+%7C+MongoDB;Building+Real+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer;Problem+Solver;Building+Real+World+Projects+🚀" />
 </p>
 
-<h3 align="center">BTech CSE Student | Backend Developer | Flask & MongoDB 🚀</h3>
+<p align="center">
+  <a href="https://amankr0075.github.io/amanportfolio/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Amankr0075&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 BTech Computer Science Student  
-- 💻 Passionate about Backend Development  
-- 🚀 Building real-world projects (not just assignments)  
-- 🌱 Currently learning: Advanced Flask & System Design  
-- ⚡ Goal: Become a strong Backend Engineer  
+- 💻 Passionate about building useful and scalable applications  
+- 🚀 Focused on real-world problem solving  
+- 🌱 Continuously learning and improving  
+- 🎯 Aspiring Software Engineer  
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Languages: Python, JavaScript  
-- 🌐 Backend: Flask  
-- 🗄️ Database: MongoDB  
-- 🎨 Frontend: HTML, CSS, Bootstrap  
-- ⚙️ Tools: Git, GitHub, VS Code  
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Project
-### 🛒 E-commerce Web App
-- User authentication (login/register)
-- Seller & customer dashboard
-- Order management system
-- MongoDB integration
+## 🚀 Projects
 
-👉 *More features coming soon...*
+### 🛒 E-commerce Application
+- Designed and developed a complete user-focused system  
+- Implemented authentication and structured workflows  
+- Focused on usability and real-world scenarios  
+
+🔗 *(Add project link here)*  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankr0075&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankr0075&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -52,24 +56,28 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amankr0075&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amankr0075&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (add later)
-- 📧 Email: (optional)
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://amankr0075.github.io/amanportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-> I prefer building real projects over just reading theory 😄
+## ⚡ Mindset
+> “I focus on growth, consistency, and building things that matter.”
