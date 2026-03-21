@@ -37,7 +37,7 @@
 - Implemented authentication and structured workflows  
 - Focused on usability and real-world scenarios  
 
-🔗 *(Add project link here)*  
+🔗 *PROJECT IS NOT HOSTED. IT IS IN LOCAL SERVER OF MY SYSTEM*  
 
 ---
 
@@ -61,13 +61,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amankr0075&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
