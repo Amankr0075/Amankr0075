@@ -37,7 +37,7 @@
 - Implemented authentication and structured workflows  
 - Focused on usability and real-world scenarios  
 
-🔗 *PROJECT IS NOT HOSTED. IT IS IN LOCAL SERVER OF MY SYSTEM*  
+🔗 https://github.com/Amankr0075/flask_ecommerce
 
 ---
 
