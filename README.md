@@ -56,10 +56,15 @@
 A group expense management platform that helps users track shared expenses, settlements, and balances efficiently.
 
 🔹 User Authentication
+
 🔹 Expense Tracking
+
 🔹 Group Management
+
 🔹 Balance Calculation
+
 🔹 AWS EC2 Deployment
+
 
 Live view:- https://groupsathi.duckdns.org/
 Repository:- https://github.com/Amankr0075/GroupSathi
@@ -69,10 +74,15 @@ Repository:- https://github.com/Amankr0075/GroupSathi
 A complete e-commerce application built using Flask and MongoDB.
 
 🔹 User Authentication
+
 🔹 Product Management
+
 🔹 Shopping Cart
+
 🔹 Order Workflow
+
 🔹 Responsive Design
+
 
 🔗 Repository: https://github.com/Amankr0075/flask_ecommerce
 
