@@ -67,6 +67,7 @@ A group expense management platform that helps users track shared expenses, sett
 
 
 Live view:- https://groupsathi.duckdns.org/
+
 Repository:- https://github.com/Amankr0075/GroupSathi
 
 ### 🛒 E-Commerce Platform
