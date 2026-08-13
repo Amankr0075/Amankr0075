@@ -1,98 +1,232 @@
-# Hi 👋, I'm Aman Kumar
+# 👋 Hi, I'm Aman Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Computer+Science+Student;Building+Real+World+Projects+🚀;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Computer+Science+Student;Building+Real-World+Applications;MERN+%7C+Python+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://amankr0075.github.io/FUTURE_FS_01/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00F7FF?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/Amankr0075">
-    <img src="https://img.shields.io/github/followers/Amankr0075?style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Amankr0075?style=for-the-badge&label=Followers&color=181717&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Amankr0075&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Amankr0075&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanxelon">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amankumar3432k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 **B.Tech Computer Science & Engineering Student**
 
-💻 Passionate about Full Stack Web Development
+💻 Passionate about **Full Stack Web Development**
 
-🚀 Building real-world applications with Flask, MongoDB, JavaScript and Python
+🌐 Building **real-world web applications** and solving practical problems
 
-🌱 Continuously learning new technologies and best practices
+🧠 Interested in **Software Development, DSA, Backend Systems & Cloud Deployment**
 
-🎯 Aspiring Software Engineer focused on solving practical problems
+☁️ Hands-on experience with **AWS, MongoDB, Flask, React and Node.js**
+
+🌱 Constantly learning new technologies and improving my development skills
+
+🎯 Aspiring **Software Engineer** focused on building scalable and user-friendly applications
+
+> *"Build. Learn. Improve. Repeat."* 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
-### Tools & Technologies
+### ⚙️ Frameworks & Libraries
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Flask](https://skillicons.dev/icons?i=flask)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite,tailwind" />
+</p>
 
----
+### 🗄️ Databases
 
-## 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### 👥 GroupSathi
+### ☁️ Cloud, DevOps & Tools
 
-A group expense management platform that helps users track shared expenses, settlements, and balances efficiently.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,linux,nginx" />
+</p>
 
-🔹 User Authentication
+### 🔧 Other Technologies
 
-🔹 Expense Tracking
-
-🔹 Group Management
-
-🔹 Balance Calculation
-
-🔹 AWS EC2 Deployment
-
-
-Live view:- https://groupsathi.duckdns.org/
-
-Repository:- https://github.com/Amankr0075/GroupSathi
-
-### 🛒 E-Commerce Platform
-
-A complete e-commerce application built using Flask and MongoDB.
-
-🔹 User Authentication
-
-🔹 Product Management
-
-🔹 Shopping Cart
-
-🔹 Order Workflow
-
-🔹 Responsive Design
-
-
-🔗 Repository: https://github.com/Amankr0075/flask_ecommerce
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,docker" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 What I Work With
+
+```text
+Frontend        → React.js, JavaScript, HTML, CSS, Tailwind CSS
+Backend         → Node.js, Express.js, Python, Flask
+Database        → MongoDB, MongoDB Atlas, MySQL
+Cloud           → AWS EC2, Render, GitHub Pages
+Authentication  → JWT, Flask-Login
+APIs            → REST APIs
+Tools           → Git, GitHub, VS Code, Postman
+Deployment      → AWS, Nginx, PM2, GitHub Actions
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 👥 GroupSathi
+
+**Group Expense & Management Platform**
+
+A platform designed to help groups manage shared expenses, contributions, balances and settlements efficiently.
+
+### ✨ Features
+
+* 🔐 User Authentication
+* 👥 Group Management
+* 💰 Expense Tracking
+* 📊 Balance Calculation
+* 💳 Contribution Management
+* 🔔 Notifications
+* 🤖 AI Chatbot Integration
+* ☁️ AWS EC2 Deployment
+
+**Tech Stack:** `Django` `Flutter` `AWS` `MongoDB`
+
+<p>
+  <a href="https://groupsathi.duckdns.org/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00F7FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Amankr0075/GroupSathi">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🍽️ Rasoi Junction
+
+**Restaurant Management System**
+
+A full-stack restaurant management platform that connects customers, kitchen staff, managers and administrators in one system.
+
+### ✨ Features
+
+* 👤 Customer Registration & Login
+* 🍽️ Menu Management
+* 🛒 Cart & Order Management
+* 💳 Razorpay Payment Integration
+* 🪑 Table Reservation
+* 👨‍🍳 Kitchen Management
+* 📦 Inventory Management
+* 🔔 Real-Time Notifications
+* 🤖 AI Food Recommendations
+* 📊 Admin Dashboard
+* ☁️ Cloudinary Image Storage
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Razorpay` `Firebase` `Cloudinary`
+
+<p>
+  <a href="https://github.com/Amankr0075">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🛒 AmanCart
+
+**Full-Stack E-Commerce Platform**
+
+A complete e-commerce application supporting multiple user roles and a complete shopping workflow.
+
+### ✨ Features
+
+* 🔐 Authentication & Authorization
+* 👨‍💼 Admin Dashboard
+* 🏪 Seller Management
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* ❤️ Wishlist
+* 📦 Order Management
+* ⭐ Product Reviews
+* 🔔 Notifications
+* 📍 Address Management
+
+**Tech Stack:** `Flask` `Python` `MongoDB` `HTML` `CSS` `JavaScript`
+
+---
+
+## 💼 LeadFlow CRM
+
+**Customer Relationship Management Platform**
+
+A web-based CRM designed to help businesses manage leads, sales pipelines and customer interactions.
+
+### ✨ Features
+
+* 👥 Lead Management
+* 📊 Sales Pipeline
+* 📈 Dashboard & Analytics
+* 🔐 Authentication
+* 🗂️ Customer Management
+* ☁️ Cloud Deployment
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `AWS`
+
+---
+
+# 🏆 Experience & Certifications
+
+### 💼 Full Stack Web Development Internship
+
+**Future Interns**
+
+Worked on real-world web development projects including:
+
+* 🌐 Portfolio Website
+* 📊 LeadFlow CRM
+* 🍽️ Rasoi Junction
+
+Focused on frontend development, backend APIs, databases, deployment and full-stack application development.
+
+---
+
+### 📜 Certifications
+
+* 🏅 NPTEL — Computer Networks & Internet Protocol
+* 🏅 CodeTantra — Java
+* 🏅 CodeTantra — DBMS
+* 🏅 CodeTantra — Data Structures
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -102,16 +236,86 @@ A complete e-commerce application built using Flask and MongoDB.
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Activity
 
-📧 Email: [amankumar3432k@gmail.com](mailto:amankumar3432k@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/amanxelon
-
-🌐 Portfolio: https://amankr0075.github.io/FUTURE_FS_01/
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
-## ⚡ Quote
+# 📈 My Development Journey
 
-> "Success comes from consistency, continuous learning, and building solutions that create value."
+```text
+2023 ───── Started Programming & DSA
+              │
+2024 ───── Started B.Tech CSE
+              │
+2025 ───── Full Stack Development
+              │
+2025 ───── Built Real-World Projects
+              │
+2026 ───── Cloud & AWS Deployment
+              │
+2026 ───── AI Integration & Advanced Projects
+              │
+2028 ───── Aspiring Software Engineer 🚀
+```
+
+---
+
+# 🎯 Current Focus
+
+🔹 Full Stack Web Development
+
+🔹 Data Structures & Algorithms
+
+🔹 Backend Development
+
+🔹 Cloud & AWS
+
+🔹 AI Integration
+
+🔹 System Design
+
+🔹 Building Production-Ready Applications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://amankr0075.github.io/FUTURE_FS_01/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/amanxelon">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:amankumar3432k@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Amankr0075">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my projects, consider giving them a star!
+
+### 💡 Keep Learning • Keep Building • Keep Growing 🚀
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+</p>
