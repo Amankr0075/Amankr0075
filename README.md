@@ -149,6 +149,9 @@ A full-stack restaurant management platform that connects customers, kitchen sta
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Razorpay` `Firebase` `Cloudinary`
 
 <p>
+  <a href="https://rasoijunction.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00F7FF?style=for-the-badge" />
+  </a>
   <a href="https://github.com/Amankr0075">
     <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
@@ -160,7 +163,7 @@ A full-stack restaurant management platform that connects customers, kitchen sta
 
 **Full-Stack E-Commerce Platform**
 
-A complete e-commerce application supporting multiple user roles and a complete shopping workflow.
+A complete e-commerce application built with Flask and MongoDB, featuring multiple user roles and a complete shopping workflow.
 
 ### ✨ Features
 
@@ -175,9 +178,17 @@ A complete e-commerce application supporting multiple user roles and a complete 
 * 🔔 Notifications
 * 📍 Address Management
 
-**Tech Stack:** `Flask` `Python` `MongoDB` `HTML` `CSS` `JavaScript`
+**Tech Stack:** `Python` `Flask` `MongoDB` `HTML` `CSS` `JavaScript`
 
----
+<p>
+  <a href="YOUR_AMANCART_VIDEO_LINK">
+    <img src="https://img.shields.io/badge/🎥%20Project%20Video-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="YOUR_AMANCART_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 ## 💼 LeadFlow CRM
 
