@@ -252,6 +252,12 @@ Focused on frontend development, backend APIs, databases, deployment and full-st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr0075&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
 </p>
 
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amankr0075/Amankr0075/output/github-contribution-grid-snake.svg" />
+</p>
+
 # 📈 My Development Journey
 
 ```text
