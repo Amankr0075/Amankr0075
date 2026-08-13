@@ -237,12 +237,13 @@ Focused on frontend development, backend APIs, databases, deployment and full-st
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Amankr0075&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Amankr0075&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -252,11 +253,7 @@ Focused on frontend development, backend APIs, databases, deployment and full-st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr0075&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
 </p>
 
-## 🐍 GitHub Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amankr0075/Amankr0075/output/github-contribution-grid-snake.svg" />
-</p>
 
 # 📈 My Development Journey
 
