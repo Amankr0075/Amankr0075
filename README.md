@@ -219,7 +219,7 @@ Worked on real-world web development projects including:
 
 * 🌐 Portfolio Website
 * 📊 LeadFlow CRM
-* 🍽️ Rasoi Junction
+* 🍽️ Royal Spice Restaurant
 
 Focused on frontend development, backend APIs, databases, deployment and full-stack application development.
 
