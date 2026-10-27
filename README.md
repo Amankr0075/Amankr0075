@@ -1,17 +1,21 @@
 # 👋 Hi, I'm Aman Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Computer+Science+Student;Building+Real-World+Applications;MERN+%7C+Python+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Computer+Science+Student;Building+Real-World+Applications;MERN+%7C+Python+%7C+MongoDB;Cloud+%26+AI+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:00F7FF&height=160&section=header&text=AMAN%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://amankr0075.github.io/FUTURE_FS_01/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00F7FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00F7FF?style=for-the-badge&labelColor=0D1117" />
   </a>
   <a href="https://github.com/Amankr0075">
-    <img src="https://img.shields.io/github/followers/Amankr0075?style=for-the-badge&label=Followers&color=181717&logo=github" />
+    <img src="https://img.shields.io/github/followers/Amankr0075?style=for-the-badge&label=Followers&color=7B2FFF&labelColor=0D1117&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Amankr0075&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Amankr0075&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <p align="center">
@@ -25,71 +29,99 @@
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who Am I?
 
 🎓 **B.Tech Computer Science & Engineering Student**
 
 💻 Passionate about **Full Stack Web Development**
 
-🌐 Building **real-world web applications** and solving practical problems
+🌐 Building **real-world applications** that solve practical problems
 
-🧠 Interested in **Software Development, DSA, Backend Systems & Cloud Deployment**
+🧠 Interested in **DSA, Backend Systems, Cloud & AI**
 
-☁️ Hands-on experience with **AWS, MongoDB, Flask, React and Node.js**
+☁️ Hands-on with **AWS, MongoDB, Flask, React & Node.js**
 
-🌱 Constantly learning new technologies and improving my development skills
+🚀 Focused on building **scalable and production-ready applications**
 
-🎯 Aspiring **Software Engineer** focused on building scalable and user-friendly applications
+🎯 Aspiring **Software Engineer**
 
-> *"Build. Learn. Improve. Repeat."* 🚀
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr0075&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+> ### 💭 *"Build. Learn. Improve. Repeat."* 🚀
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Tech Arsenal
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite,tailwind&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud • DevOps • Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx,postman,vscode&theme=dark" />
 </p>
 
 ### 🔧 Other Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,docker" />
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 </p>
 
 ---
 
-## 📌 What I Work With
+# 🧩 Development Stack
 
 ```text
-Frontend        → React.js, JavaScript, HTML, CSS, Tailwind CSS
-Backend         → Node.js, Express.js, Python, Flask
-Database        → MongoDB, MongoDB Atlas, MySQL
-Cloud           → AWS EC2, Render, GitHub Pages
-Authentication  → JWT, Flask-Login
-APIs            → REST APIs
-Tools           → Git, GitHub, VS Code, Postman
-Deployment      → AWS, Nginx, PM2, GitHub Actions
+┌──────────────────────────────────────────────────────────┐
+│                     AMAN'S STACK                         │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  FRONTEND      → React.js • JavaScript • HTML • CSS      │
+│  UI            → Tailwind CSS • Responsive Design       │
+│                                                          │
+│  BACKEND       → Node.js • Express.js • Python • Flask  │
+│                                                          │
+│  DATABASE      → MongoDB • MongoDB Atlas • MySQL        │
+│                                                          │
+│  APIs          → REST APIs • JWT Authentication          │
+│                                                          │
+│  CLOUD         → AWS EC2 • Render • GitHub Pages        │
+│                                                          │
+│  DEVOPS        → Nginx • PM2 • GitHub Actions           │
+│                                                          │
+│  TOOLS         → Git • GitHub • VS Code • Postman       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -98,198 +130,219 @@ Deployment      → AWS, Nginx, PM2, GitHub Actions
 
 ## 👥 GroupSathi
 
-**Group Expense & Management Platform**
+### Smart Group Expense & Management Platform
 
 A platform designed to help groups manage shared expenses, contributions, balances and settlements efficiently.
 
-### ✨ Features
+**✨ Key Features**
 
-* 🔐 User Authentication
-* 👥 Group Management
-* 💰 Expense Tracking
-* 📊 Balance Calculation
-* 💳 Contribution Management
-* 🔔 Notifications
-* 🤖 AI Chatbot Integration
-* ☁️ AWS EC2 Deployment
+- 🔐 Secure User Authentication
+- 👥 Group Management
+- 💰 Expense Tracking
+- 📊 Automatic Balance Calculation
+- 💳 Contribution Management
+- 🔔 Notifications
+- 🤖 AI Chatbot Integration
+- ☁️ AWS EC2 Deployment
 
-**Tech Stack:** `Django` `Flutter` `AWS` `MongoDB`
+**Tech Stack**
+
+`Django` `Flutter` `AWS` `MongoDB`
 
 <p>
-  <a href="https://groupsathi.duckdns.org/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00F7FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Amankr0075/GroupSathi">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://groupsathi.duckdns.org/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00F7FF?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="https://github.com/Amankr0075/GroupSathi">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-7B2FFF?style=for-the-badge&logo=github&labelColor=0D1117" />
+</a>
 </p>
 
 ---
 
 ## 🍽️ Rasoi Junction
 
-**Restaurant Management System**
+### Restaurant Management System
 
-A full-stack restaurant management platform that connects customers, kitchen staff, managers and administrators in one system.
+A full-stack restaurant management ecosystem connecting customers, kitchen staff, managers and administrators.
 
-### ✨ Features
+**✨ Key Features**
 
-* 👤 Customer Registration & Login
-* 🍽️ Menu Management
-* 🛒 Cart & Order Management
-* 💳 Razorpay Payment Integration
-* 🪑 Table Reservation
-* 👨‍🍳 Kitchen Management
-* 📦 Inventory Management
-* 🔔 Real-Time Notifications
-* 🤖 AI Food Recommendations
-* 📊 Admin Dashboard
-* ☁️ Cloudinary Image Storage
+- 👤 Customer Registration & Login
+- 🍽️ Dynamic Menu Management
+- 🛒 Cart & Order Management
+- 💳 Razorpay Payment Integration
+- 🪑 Table Reservation
+- 👨‍🍳 Kitchen Management
+- 📦 Inventory Management
+- 🔔 Real-Time Notifications
+- 🤖 AI Food Recommendations
+- 📊 Admin Analytics Dashboard
+- ☁️ Cloudinary Image Storage
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Razorpay` `Firebase` `Cloudinary`
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Razorpay` `Firebase` `Cloudinary`
 
 <p>
-  <a href="https://rasoijunction.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00F7FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Amankr0075">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://rasoijunction.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00F7FF?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="https://github.com/Amankr0075">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-7B2FFF?style=for-the-badge&logo=github&labelColor=0D1117" />
+</a>
 </p>
 
 ---
 
 ## 🛒 AmanCart
 
-**Full-Stack E-Commerce Platform**
+### Full-Stack E-Commerce Platform
 
-A complete e-commerce application built with Flask and MongoDB, featuring multiple user roles and a complete shopping workflow.
+A complete e-commerce application built with Flask and MongoDB featuring multiple user roles and a complete shopping workflow.
 
-### ✨ Features
+**✨ Key Features**
 
-* 🔐 Authentication & Authorization
-* 👨‍💼 Admin Dashboard
-* 🏪 Seller Management
-* 🛍️ Product Management
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 📦 Order Management
-* ⭐ Product Reviews
-* 🔔 Notifications
-* 📍 Address Management
+- 🔐 Authentication & Authorization
+- 👨‍💼 Admin Dashboard
+- 🏪 Seller Management
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 📦 Order Management
+- ⭐ Product Reviews
+- 🔔 Notifications
+- 📍 Address Management
 
-**Tech Stack:** `Python` `Flask` `MongoDB` `HTML` `CSS` `JavaScript`
+**Tech Stack**
+
+`Python` `Flask` `MongoDB` `HTML` `CSS` `JavaScript`
 
 <p>
-  <a href="YOUR_AMANCART_VIDEO_LINK">
-    <img src="https://img.shields.io/badge/🎥%20Project%20Video-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="YOUR_AMANCART_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<a href="YOUR_AMANCART_VIDEO_LINK">
+<img src="https://img.shields.io/badge/🎥%20PROJECT%20VIDEO-WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="YOUR_AMANCART_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-7B2FFF?style=for-the-badge&logo=github&labelColor=0D1117" />
+</a>
 </p>
 
+---
 
 ## 💼 LeadFlow CRM
 
-**Customer Relationship Management Platform**
+### Customer Relationship Management Platform
 
 A web-based CRM designed to help businesses manage leads, sales pipelines and customer interactions.
 
-### ✨ Features
+**✨ Key Features**
 
-* 👥 Lead Management
-* 📊 Sales Pipeline
-* 📈 Dashboard & Analytics
-* 🔐 Authentication
-* 🗂️ Customer Management
-* ☁️ Cloud Deployment
+- 👥 Lead Management
+- 📊 Sales Pipeline
+- 📈 Dashboard & Analytics
+- 🔐 Authentication
+- 🗂️ Customer Management
+- ☁️ Cloud Deployment
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `AWS`
+**Tech Stack**
 
----
-
-# 🏆 Experience & Certifications
-
-### 💼 Full Stack Web Development Internship
-
-**Future Interns**
-
-Worked on real-world web development projects including:
-
-* 🌐 Portfolio Website
-* 📊 LeadFlow CRM
-* 🍽️ Royal Spice Restaurant
-
-Focused on frontend development, backend APIs, databases, deployment and full-stack application development.
+`React` `Node.js` `Express.js` `MongoDB` `AWS`
 
 ---
 
-### 📜 Certifications
+# 🏆 Experience
 
-* 🏅 NPTEL — Computer Networks & Internet Protocol
-* 🏅 CodeTantra — Java
-* 🏅 CodeTantra — DBMS
-* 🏅 CodeTantra — Data Structures
+## 💼 Full Stack Web Development Intern
+
+### Future Interns
+
+Worked on practical full-stack development projects involving:
+
+- 🌐 Portfolio Website
+- 📊 LeadFlow CRM
+- 🍽️ Royal Spice Restaurant
+
+**Focus Areas**
+
+`Frontend Development` `Backend APIs` `Database Design` `Deployment` `Full Stack Development`
 
 ---
 
-# 📊 GitHub Statistics
+# 📜 Certifications
+
+| Certification | Platform |
+|---|---|
+| 🏅 Computer Networks & Internet Protocol | NPTEL — IIT Kharagpur |
+| 🏅 Java | CodeTantra |
+| 🏅 DBMS | CodeTantra |
+| 🏅 Data Structures | CodeTantra |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Amankr0075&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amankr0075&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr0075&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Amankr0075&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankr0075&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
-## 📈 GitHub Contributions
+
+# 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr0075&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
+  <img src="https://raw.githubusercontent.com/Amankr0075/Amankr0075/output/github-contribution-grid-snake.svg" width="95%" />
 </p>
 
+---
 
+# 📈 Contribution Graph
 
-# 📈 My Development Journey
-
-```text
-2023 ───── Started Programming & DSA
-              │
-2024 ───── Started B.Tech CSE
-              │
-2025 ───── Full Stack Development
-              │
-2025 ───── Built Real-World Projects
-              │
-2026 ───── Cloud & AWS Deployment
-              │
-2026 ───── AI Integration & Advanced Projects
-              │
-2028 ───── Aspiring Software Engineer 🚀
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr0075&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true&custom_title=Aman's%20Contribution%20Graph" width="95%" />
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-🔹 Full Stack Web Development
+<div align="center">
 
-🔹 Data Structures & Algorithms
+| 🔥 Area | 🚀 Focus |
+|---|---|
+| 💻 Full Stack | MERN + Python |
+| 🧠 DSA | Problem Solving & Algorithms |
+| ⚙️ Backend | APIs & Scalable Systems |
+| ☁️ Cloud | AWS & Deployment |
+| 🤖 AI | AI-Powered Applications |
+| 🏗️ Architecture | System Design |
+| 🚀 Production | Real-World Applications |
 
-🔹 Backend Development
+</div>
 
-🔹 Cloud & AWS
+---
 
-🔹 AI Integration
+# ⚡ Developer Mode
 
-🔹 System Design
-
-🔹 Building Production-Ready Applications
+```text
+╔══════════════════════════════════════════════════════╗
+║                   AMAN KUMAR                         ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  > Building scalable applications...                ║
+║  > Learning new technologies...                      ║
+║  > Solving complex problems...                       ║
+║  > Exploring AI & Cloud...                           ║
+║  > Improving every single day...                     ║
+║                                                      ║
+║  STATUS: ████████████████████  ONLINE                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -298,19 +351,19 @@ Focused on frontend development, backend APIs, databases, deployment and full-st
 <p align="center">
 
 <a href="https://amankr0075.github.io/FUTURE_FS_01/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 <a href="https://www.linkedin.com/in/amanxelon">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
 </a>
 
 <a href="mailto:amankumar3432k@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 
 <a href="https://github.com/Amankr0075">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&labelColor=0D1117" />
 </a>
 
 </p>
@@ -321,12 +374,10 @@ Focused on frontend development, backend APIs, databases, deployment and full-st
 
 ### ⭐ If you like my projects, consider giving them a star!
 
-### 💡 Keep Learning • Keep Building • Keep Growing 🚀
+### 💡 Build • Learn • Improve • Repeat 🚀
 
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:00F7FF&height=120&section=footer&animation=twinkling" width="100%" />
 </p>
